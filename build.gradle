@@ -101,8 +101,8 @@ dependencies {
         }
     }
 
-    compileOnly fg.deobf("curse.maven:gempire-427613:3651840")
-    runtimeOnly fg.deobf("curse.maven:gempire-427613:3651840")
+    compileOnly fg.deobf("curse.maven:gempire-427613:4440757")
+    runtimeOnly fg.deobf("curse.maven:gempire-427613:4440757")
 
     // You may put jars on which you depend on in ./libs or you may define them like so..
     // compile "some.group:artifact:version:classifier"
