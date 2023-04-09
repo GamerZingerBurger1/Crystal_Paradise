@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/PPorcelain_gem"
+    "layer0": "crystalparadise:item/PPorcelain_gem"
   }
 }

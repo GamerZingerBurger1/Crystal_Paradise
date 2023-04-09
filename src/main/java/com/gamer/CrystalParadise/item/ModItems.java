@@ -3,7 +3,6 @@ package com.gamer.CrystalParadise.item;
 import com.gamer.CrystalParadise.CrystalParadise;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Items;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
