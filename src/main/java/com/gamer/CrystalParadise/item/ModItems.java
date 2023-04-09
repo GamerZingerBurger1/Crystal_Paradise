@@ -15,7 +15,7 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, CrystalParadise.MODID);
 
-    public static final RegistryObject<Item> OJADE_PINK = ITEMS.register("ojade_pink.json",
+    public static final RegistryObject<Item> OJADE_PINK = ITEMS.register("ojade_pink",
             () -> new Item(new Item.Properties().group(ItemGroup.MATERIALS)));
 
 
